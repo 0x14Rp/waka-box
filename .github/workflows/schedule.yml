@@ -18,5 +18,5 @@ jobs:
         run: node ./index.js
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: a991f420161ef75948ef81e000bf632b
+          GIST_ID: a71aaef004d13eb57b54249103d7a5fc
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
